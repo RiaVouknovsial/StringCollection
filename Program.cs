@@ -26,6 +26,7 @@ Console.WriteLine("Некоторые строки:");
 Console.WriteLine(collection[0]);
 Console.WriteLine(collection[1]);
 Console.WriteLine(collection[2]);
+Console.WriteLine(collection[3]);
    
 
 public class StringCollection
